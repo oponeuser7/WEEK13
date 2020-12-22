@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 #include <algorithm>
 #include <forward_list>
 #include <functional>
@@ -48,4 +48,4 @@ int main() {
 	}
 	std::cout << std::endl;
 	getchar();
-}*/
+}

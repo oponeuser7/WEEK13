@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 #include <string>
 template<typename T>
 auto sum(T x) {
@@ -12,4 +12,4 @@ int main() {
 	auto x = sum(42.5, 10, 11.1f);
 	std::cout << x;
 	getchar();
-}*/
+}
